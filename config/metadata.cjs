@@ -1,14 +1,14 @@
 const { author, dependencies, repository, version } = require('../package.json')
 
 module.exports = {
-  name: 'webpack-userscript-template',
+  name: 'Show-Me-The-Porn-Trailer',
   namespace: '',
   version: version,
   author: author,
   source: repository.url,
   // 'license': 'MIT',
   match: [
-    'http://www.example.com/*'
+    'https://www.naughtyamerica.com/*'
   ],
   require: [
     `https://cdn.jsdelivr.net/npm/jquery@${dependencies.jquery}/dist/jquery.min.js`,
