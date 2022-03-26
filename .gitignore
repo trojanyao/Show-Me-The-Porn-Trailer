@@ -4,3 +4,4 @@ node_modules
 index.debug.user.js
 index.dev.user.js
 .DS_Store
+*.code-workspace
